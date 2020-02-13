@@ -19,11 +19,11 @@ You are not allowed to collaborate during the Sprint Challenge. However, you are
 
 You have three hours to complete this challenge. Plan your time accordingly.
 
-## Entries This Week
+## Entries This Sprint
 
 Please respond to the following prompts to demonstrate your understanding of product vision planning sessions.
 
-Edit the `answers.txt` to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by Team Lead.
+Please submit your response to your `Google Drive` folder you created in your during your first sprint of labs.
 
 ### Prompt 1: Decision Defense
 
@@ -47,4 +47,6 @@ Please submit a pull-request and add your TL as a reviewer.
 
 ## Rubric & Samples
 
-TODO: Fill this in after we combine the Sample and Rubric :)
+[Here is a link to the rubric](https://www.notion.so/lambdaschool/1-2-Decision-Defense-Breakdown-Entries-Rubric-Plan-and-evaluate-0064ad34a2ca41d3a3121f80d82fe9c4) that will be used to assess your answers to the prompts. Use this as a guide as you craft your responses.
+
+[Here is a link to a sample submission](https://www.notion.so/lambdaschool/1-2-Defense-Breakdown-Entry-Plan-and-Evaluate-205694abdd4e4f83a899a90e478df27c) that you can use for inspiration.
