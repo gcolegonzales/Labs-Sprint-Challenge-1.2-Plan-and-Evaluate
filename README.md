@@ -46,11 +46,7 @@ Please submit a pull-request and add your TL as a reviewer.
 
 ## Rubric & Samples
 
-<<<<<<< HEAD
-[Here is a link to the rubric](https://www.notion.so/lambdaschool/1-2-Decision-Defense-Breakdown-Entries-Rubric-Plan-and-evaluate-0064ad34a2ca41d3a3121f80d82fe9c4) that will be used to assess your answers to the prompts. Use this as a guide as you craft your responses.
-=======
 
 [Here is a link to the rubric](https://www.notion.so/lambdaschool/1-2-Decision-Defense-Entry-Rubric-Plan-and-evaluate-0064ad34a2ca41d3a3121f80d82fe9c4) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
->>>>>>> 2711877319652f6b5a59e9901dc444a67b35d534
 
 [Here is a link to a sample submission](https://www.notion.so/lambdaschool/1-2-Defense-Breakdown-Entry-Plan-and-Evaluate-205694abdd4e4f83a899a90e478df27c) that you can use for inspiration.
