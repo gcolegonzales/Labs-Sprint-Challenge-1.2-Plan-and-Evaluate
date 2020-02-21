@@ -42,7 +42,7 @@ You are expected to be able to answer all these questions. Your responses contri
 
 ## Submitting your work
 
-Please submit a pull-request and add your TL as a reviewer.
+Please submit to your Labs Google Drive folder.
 
 ## Rubric & Samples
 
