@@ -1,6 +1,6 @@
 # Labs Sprint Challenge: 1.2 - Plan and Evaluate
 
-This challenge allows you to practice the concepts and techniques learned over the past week and apply them by providing answers to questions related to your product vision. This Sprint explored Product Vision: Planning your Labs Product. During this Sprint, you were given the following lessons:
+This challenge allows you to practice the concepts and techniques learned over the past week and apply them by providing answers to questions related to your product vision. This Sprint explored Planning and Evaluating: Planning your Labs Product. During this Sprint, you were given the following lessons:
 
 - Usability
 - GitHub
