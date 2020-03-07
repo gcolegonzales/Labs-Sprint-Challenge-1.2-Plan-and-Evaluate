@@ -35,8 +35,12 @@ Please respond to the following prompts to demonstrate your understanding of the
 
 Describe the breakdown process of your first release canvas. Please add a link to your first release canvas in notion.
 
+    https://www.notion.so/v1-2-Finishing-the-Foundation-7402f5c012844b0f87d6c60e2eb0d7c3
+
 - **For non-UX students:** Summarize what you included in your first release canvas and why the features in that release canvas create a complete feature set.
 - How will you test those features to know that they actually solve the problem?
+    In our first release canvas we decided to refactor the existing code base to be more efficient. We also
+    decided to redesign the look and layout of the entire site. After our changes have been completed the site looks and feels much more smoothe and modern.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
