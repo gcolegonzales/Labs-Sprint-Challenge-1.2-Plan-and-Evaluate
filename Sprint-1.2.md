@@ -29,6 +29,8 @@ Please submit your response to your `Google Drive` folder you created in your du
 Please respond to the following prompts to demonstrate your understanding of these release canvas planning sessions.
 
 - **For data scientists and engineers:** Describe the features in your first release canvas. How do the features in your first release canvas support one another? How will the completion of the first release canvas help drive the technological decisions moving forward?
+    The features added in the first release canvas create a much more satisfying user experience. This will definitely aid in hooking and retaining users that potentially would not have liked the look and feel before hand.
+
 - **For UX designers:** Describe how the user research you conducted influenced the features your team will build.
 
 ### Prompt 2: Breakdown Entry
